@@ -4,6 +4,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Cilui Github ;)'
+    return 'Cilui Github CI\CD ;)'
 
 
